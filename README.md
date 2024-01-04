@@ -7,12 +7,16 @@ Web dev and designer
 I am a front-end developer currently working on Angular projects.
 
 * 🌍  I'm based in Pretoria
-* 🖥️  See my portfolio at [Github pages](http://timjozi911.github.io/)
+* 🖥️  See my portfolio at [Github pages](https://timjozi911.github.io/)
 * ✉️  You can contact me at [timjozi911@gmail.com](mailto:timjozi911@gmail.com)
-* 🚀  I'm currently working on [Building a home lab](http://timjozi911.github.io/)
+* 🚀  I'm currently working on [Building a home lab](https://timjozi911.github.io/)
 * 🧠  I'm learning AI and ML for Data Science
 * 🤝  I'm open to collaborating on Anything front-end or Python data science projects
 * ⚡  I love travelling and seeing the world.
+
+<div  align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</div>
 
 <!--
 **timjozi911/timjozi911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
