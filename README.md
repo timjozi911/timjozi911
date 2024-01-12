@@ -14,11 +14,11 @@ I am a front-end developer currently working on Angular projects.
 * 🤝  I'm open to collaborating on Anything front-end or Python data science projects
 * ⚡  I love travelling and seeing the world.
 
+<!--
 <div  align="center">
   <img height="300" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
-<!--
 **timjozi911/timjozi911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
